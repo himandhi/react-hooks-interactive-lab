@@ -65,6 +65,7 @@ Custom hooks are stored in a separate `hooks` folder and reused inside demo comp
 
 ## 🗂️ Folder Structure
 
+```plaintext
 react-lab-final/
 └── hook-playground/
     ├── node_modules/
