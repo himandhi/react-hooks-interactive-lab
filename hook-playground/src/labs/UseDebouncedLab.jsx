@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { useDebounce } from "../hooks/UseDebounce";
+import { useDebounce } from "../hooks/useDebounce";
 
 export default function UseDebounceDemo() {
   const [text,setText]=useState("");
